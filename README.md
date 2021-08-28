@@ -14,7 +14,7 @@
 <br />
 
 
-[wechat]: weixin://dl/chat?i1993516
+[wechat]: https://ibb.co/R075Mpn
 [instagram]: https://www.instagram.com/david_z2z/
 [linkedin]: https://www.linkedin.com/in/shilong-zhang-2125071b9/
 
