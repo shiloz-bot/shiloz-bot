@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @shiloz-bot
-- 👀 I’m interested in software development
-- 🌱 I’m currently learning Java and Google cloud Services
-- 💞️ I’m looking to collaborate on software backend development
+- 👋 Hi, I’m @shiloz-bot, an undergraduate student from University of Washington
+- 👀 I’m interested in Software Development
+- 🌱 I’m currently learning Java and Google Cloud Microservice
+- 💞️ I’m looking to collaborate on backend development
 - 📫 How to reach me: shiloz@uw.edu
 
 <!---
