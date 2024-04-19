@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @shiloz-bot, an undergraduate student from University of Washington
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently learning Java and Google Cloud Microservice
+- 🌱 I’m currently learning Java and full stack development
 - 💞️ I’m looking to collaborate on backend development
 - 👯 I’m currently looking for a SDE job 🤣
-- 📫 How to reach me: shiloz@uw.edu
+- 📫 How to reach me: shilonggrad@gmail.com
 
 ### Connect with me:
 
