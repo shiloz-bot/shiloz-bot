@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @shiloz-bot, an undergraduate student from University of Washington
-- 👀 I’m interested in Software Development
-- 🌱 I’m currently learning Java and full stack development
-- 💞️ I’m looking to collaborate on backend development
-- 👯 I’m currently looking for a SDE job 🤣
+- 👋 Hi, I’m @shiloz-bot, a Software Development Engineer at Amazon
+- 👀 I’m passionate about scalable backend development and infrastructure
+- 🌱 I’m currently deepening my skills in Java, AWS, and cloud architecture
+- 💞️ I’m interested in collaborating on high-performance backend systems and distributed computing
 - 📫 How to reach me: shilonggrad@gmail.com
 
 ### Connect with me:
